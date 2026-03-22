@@ -245,8 +245,7 @@ Frontend receives ReceiveDashboardUpdate
 
 ## UI/UX Website
 
-![alt text](image-1.png)
-
+![alt text](image.png)
 ---
 
 ## 💡 Future Enhancements
