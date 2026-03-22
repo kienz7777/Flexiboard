@@ -25,6 +25,9 @@ FlexiBoard Pro enables organizations to aggregate, visualize, and act on data fr
 
 ## Quick Start
 
+### Setup
+For detailed Setup documentation, see [SETUP_GUIDE.md](./SETUP_GUIDE.md)
+
 ### Local Development (2 minutes)
 
 **Terminal 1 — Backend:**
